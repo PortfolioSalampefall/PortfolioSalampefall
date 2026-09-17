@@ -8,7 +8,8 @@ Mon expérience m'a permis de travailler sur des problématiques de gestion de d
 
 Je développe actuellement mon portfolio à travers des projets pratiques combinant Python, SQL, Power BI et Data Analytics.
 
-🧰 Compétences techniques 📊 Data Analysis & Visualization Python Pandas NumPy Matplotlib Seaborn Power BI Power Query DAX Excel 🗄️ Data Management & Databases SQL SQL Server SSIS SSAS Talend Open Studio Data Cleaning ETL / ELT Data Modeling 🗺️ GIS & Data Visualization ArcGIS Cartographie interactive Géolocalisation Visualisation géographique avec Power BI 🤖 Artificial Intelligence Machine Learning Data Mining Analyse exploratoire des données Modélisation prédictive ⚙️ Outils & Technologies Git GitHub GitHub Actions Visual Studio Code Jupyter Notebook Google Colab
+🧰 Compétences techniques 
+📊 Data Analysis & Visualization Python Pandas NumPy Matplotlib Seaborn Power BI Power Query DAX Excel 🗄️ Data Management & Databases SQL SQL Server SSIS SSAS Talend Open Studio Data Cleaning ETL / ELT Data Modeling 🗺️ GIS & Data Visualization ArcGIS Cartographie interactive Géolocalisation Visualisation géographique avec Power BI 🤖 Artificial Intelligence Machine Learning Data Mining Analyse exploratoire des données Modélisation prédictive ⚙️ Outils & Technologies Git GitHub GitHub Actions Visual Studio Code Jupyter Notebook Google Colab
 
 📂 Projets Data Analytics 
 
