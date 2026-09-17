@@ -24,7 +24,6 @@ Travaux réalisés :
 
 Nettoyage et préparation des données Analyse exploratoire (EDA) Analyse des variables numériques et catégorielles Analyse des corrélations Création de KPI Création d'un dashboard interactif Power BI Analyse des coûts et des tendances
 
-🔗 Projet : Healthcare Data Analysis
 
 
 📈 Sales Data Analysis
@@ -37,7 +36,6 @@ Travaux réalisés :
 
 Nettoyage des données Analyse des ventes Analyse par produit et catégorie Analyse géographique Création de KPI Dashboard Power BI
 
-🔗 Projet : Sales Analysis
 
 
 🗺️ Interactive Project Mapping
@@ -48,19 +46,29 @@ Technologies : Power BI ArcGIS Excel GPS
 
 Travaux réalisés :
 
-Collecte et structuration des données Géolocalisation des projets Digitalisation des informations Création d'une cartographie interactive Mise en place d'un outil de visualisation destiné aux équipes terrain et à l'administration 💼 Expérience professionnelle GIZ Sénégal
+Collecte et structuration des données Géolocalisation des projets Digitalisation des informations Création d'une cartographie interactive Mise en place d'un outil de visualisation destiné aux équipes terrain et à l'administration
+
+
+💼 Expérience professionnelle GIZ Sénégal
 
 Data Management / Digitalisation
 
 Gestion et structuration des données Digitalisation de l'information Développement de solutions de reporting avec Power BI Création de cartographies interactives Automatisation et amélioration des processus de gestion des données CER2E
 
+
 Power BI Specialist – Stage
 
-Préparation et transformation des données Création de dashboards Power BI Développement de mesures DAX Analyse et visualisation des données 🎓 Formation
+Préparation et transformation des données Création de dashboards Power BI Développement de mesures DAX Analyse et visualisation des données 
+
+
+🎓 Formation
+
 
 Master en Intelligence Artificielle – spécialité Data Analyst Dakar Institute of Technologies — 2024
 
+
 Licence en Mathématiques Appliquées et Informatique UCHK — 2021
+
 
 📌 Domaines d'intérêt 
 Data Analytics Business Intelligence Data Management Artificial Intelligence Machine Learning Data Visualization Energy & Industry International Development 📫 Me contacter
