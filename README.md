@@ -10,7 +10,9 @@ Je développe actuellement mon portfolio à travers des projets pratiques combin
 
 🧰 Compétences techniques 📊 Data Analysis & Visualization Python Pandas NumPy Matplotlib Seaborn Power BI Power Query DAX Excel 🗄️ Data Management & Databases SQL SQL Server SSIS SSAS Talend Open Studio Data Cleaning ETL / ELT Data Modeling 🗺️ GIS & Data Visualization ArcGIS Cartographie interactive Géolocalisation Visualisation géographique avec Power BI 🤖 Artificial Intelligence Machine Learning Data Mining Analyse exploratoire des données Modélisation prédictive ⚙️ Outils & Technologies Git GitHub GitHub Actions Visual Studio Code Jupyter Notebook Google Colab
 
-📂 Projets Data Analytics 🏥 Healthcare Data Analysis
+📂 Projets Data Analytics 
+
+🏥 Healthcare Data Analysis
 
 Objectif : analyser des données de santé afin d'identifier les tendances concernant les patients, les admissions, les coûts et les services hospitaliers.
 
@@ -21,6 +23,7 @@ Travaux réalisés :
 Nettoyage et préparation des données Analyse exploratoire (EDA) Analyse des variables numériques et catégorielles Analyse des corrélations Création de KPI Création d'un dashboard interactif Power BI Analyse des coûts et des tendances
 
 🔗 Projet : Healthcare Data Analysis
+
 
 📈 Sales Data Analysis
 
@@ -33,6 +36,7 @@ Travaux réalisés :
 Nettoyage des données Analyse des ventes Analyse par produit et catégorie Analyse géographique Création de KPI Dashboard Power BI
 
 🔗 Projet : Sales Analysis
+
 
 🗺️ Interactive Project Mapping
 
@@ -56,9 +60,12 @@ Master en Intelligence Artificielle – spécialité Data Analyst Dakar Institut
 
 Licence en Mathématiques Appliquées et Informatique UCHK — 2021
 
-📌 Domaines d'intérêt Data Analytics Business Intelligence Data Management Artificial Intelligence Machine Learning Data Visualization Energy & Industry International Development 📫 Me contacter
+📌 Domaines d'intérêt 
+Data Analytics Business Intelligence Data Management Artificial Intelligence Machine Learning Data Visualization Energy & Industry International Development 📫 Me contacter
 
-💼 LinkedIn : Mon profil LinkedIn 🐙 GitHub : Mon GitHub 📧 Email : Mon email
+💼 LinkedIn : https://www.linkedin.com/in/sallah-dia-11190421b/
+🐙 GitHub : https://github.com/PortfolioSalampefall
+📧 Email : salampefal@gmail.com   et salampefall96@gmail.com
 
 🚀 Objectif
 
